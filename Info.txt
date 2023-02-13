@@ -1,0 +1,3 @@
+Start the mongodb local server using - 
+$ mongodb
+(in command prompt)
